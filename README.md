@@ -80,7 +80,7 @@ The following table benchmarks category-leading Document Intelligence SaaS platf
 
 The following repositories represent the premier open-source foundations for self-hosted document processing, local OCR, table recognition, layout decomposition, and RAG chunking.
 
-Each entry includes a live social Stars_Badge linking directly to the repository's stargazers page, **sorted strictly descending by GitHub Stars_Count**:
+Each entry includes a live social Stars_Badge linking directly to the repository's stargazers page, **sorted strictly descending by GitHub_Stars_Count**:
 
 1. **[PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** [![GitHub_Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&color=white)](https://github.com/PaddlePaddle/PaddleOCR/stargazers)  
    *Ultra-lightweight and industrial-grade OCR toolkit based on PaddlePaddle; supports 80+ languages, table structure analysis (PP-Structurev2), key information extraction, and on-device mobile/edge deployment.*
